@@ -29,7 +29,7 @@ Téléchargez SDL2 depuis le [site officiel de SDL](https://www.libsdl.org/downl
 
 1. Clonez ce dépôt ou copiez les fichiers dans votre environnement de développement :
 ```bash
-git clone [<URL_DU_DEPOT>](https://github.com/TheCodingHornet/GameOfLife)
+git clone https://github.com/TheCodingHornet/GameOfLife
 cd GameOfLife
 ```
 
